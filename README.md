@@ -28,6 +28,8 @@ I am João Raposo, a **Junior Fullstack developer** living in Lisbon, Portugal. 
 -Right now I started learning 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
     
+## Code Wars
+![Codewars](https://github.r2v.ch/codewars?user=JRaposo22&stroke=%23BB432C)
 
 ## Stats
 
