@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am João Raposo, a **Junior Fullstack developer** living in Lisbon, Portugal. I worked as a industrial automation programmer for the last 4 and a half years of my life, but I decided to change my career and I recently finished the Ironhack Web Development bootcamp.
+I am João Raposo, a **Junior Fullstack developer** living in Carnaxide, Lisbon, Portugal. I worked as a industrial automation programmer for the last 4 and a half years of my life, but I decided to change my career and I recently finished the Ironhack Web Development bootcamp.
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfraposo/)
