@@ -26,7 +26,7 @@ I am João Raposo, a **Junior Fullstack developer** living in Lisbon, Portugal. 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
--Right now I started learning 
+-I'm currently learning Typescript 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
     
 ## Code Wars
